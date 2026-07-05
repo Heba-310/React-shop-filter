@@ -72,11 +72,7 @@ Returns a list of products with fields like `title`, `price`, `thumbnail`, and `
 
 ---
 
-## 📸 Screenshots
 
-> _Add screenshots of your app here (home page, search in action, filter applied)._
-
----
 
 ## 🤝 Contributing
 
